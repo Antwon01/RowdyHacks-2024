@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contacts"
+        android:textSize="35sp"
+        android:layout_marginTop="100dp"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jake Paul"
+        android:layout_marginTop="75dp"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <!-- Box 1 -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="190dp"
+        android:text="Call" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="285dp"
+        android:text="Message" />
+
+    <!-- Box 2 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ariana Grande"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="190dp"
+        android:text="Call" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="285dp"
+        android:text="Message" />
+
+    <!-- Box 3 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jessica Sherrette"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="190dp"
+        android:text="Call" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="285dp"
+        android:text="Message" />
+
+    <!-- Box 4 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Izaya Morales"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="190dp"
+        android:text="Call" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="285dp"
+        android:text="Message" />
+
+    <!-- Box 5 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gabriel Morales"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="190dp"
+        android:text="Call" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-49dp"
+        android:layout_marginStart="285dp"
+        android:text="Message" />
+
+</LinearLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rides"
+        android:textSize="35sp"
+        android:layout_marginTop="100dp"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <!-- Box 1 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Skylar\nVolkswagen\nAprox ETA: 30"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:layout_marginTop="75dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-65dp"
+        android:layout_marginStart="265dp"
+        android:text="Emergency" />
+
+    <!-- Box 2 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Megan\nJeep Wrangler\nAprox ETA: 47"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-65dp"
+        android:layout_marginStart="265dp"
+        android:text="Emergency" />
+
+    <!-- Box 3 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Romero\nChevrolet Corvette\nAprox ETA: 23"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-65dp"
+        android:layout_marginStart="265dp"
+        android:text="Emergency" />
+
+    <!-- Box 4 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Charles\nFord Raptor\nAprox ETA: 5"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-65dp"
+        android:layout_marginStart="265dp"
+        android:text="Emergency" />
+
+    <!-- Box 5 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aubrey\nNissan Altima\nAprox ETA: 36"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:textColor="@android:color/black"
+        android:gravity="left" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-65dp"
+        android:layout_marginStart="265dp"
+        android:text="Emergency" />
+
+</LinearLayout>
